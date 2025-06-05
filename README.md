@@ -3,7 +3,6 @@
 A smart and interactive Streamlit web application to automatically assign faculty as invigilators for college exams based on their availability and load balancing.
 
 ---
-
 ## 🚀 Features
 
 - ✅ Upload teacher and exam timetables in Excel format
